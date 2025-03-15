@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Mart Ervin Dahao!
 
-I'm a passionate **Full-Stack Developer** with experience in building scalable and high-performance applications. I specialize in both **frontend and backend development**, focusing on creating efficient, maintainable, and user-friendly software solutions.
+I'm a **newbie** and an **aspiring Full-Stack Developer** with experience in building scalable and high-performance applications. I specialize in both **frontend and backend development**, focusing on creating efficient, maintainable, and user-friendly software solutions.
 
 ---
 
@@ -41,6 +41,7 @@ I'm a passionate **Full-Stack Developer** with experience in building scalable a
 ---
 
 ### 🎯 Current Focus
+- Learning full-stack development
 - Building AI-powered applications with YOLOv8 & FastAPI
 - Enhancing mobile app development with React Native
 - Experimenting with system automation & robotics
