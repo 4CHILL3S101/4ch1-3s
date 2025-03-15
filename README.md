@@ -18,12 +18,14 @@ I'm a **newbie** and an **aspiring Full-Stack Developer** who is always eager to
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+
 ---
 
 ### 🚀 Projects & Contributions
 - **[WI-CONTROLLER](#)** - A remote control application for connected devices
 - **[Student Information System](#)** - A system to track student progress & grades
 - **[AI Image Validator](#)** - YOLOv8-based image validation & reporting
+- **[Android Calculator](#)** - A simple calculator app built with Java and XML in Android Studio.
 
 💡 *Check out my repositories for more!* [🔗 GitHub Profile](https://github.com/martdahao)
 
@@ -37,15 +39,8 @@ I'm a **newbie** and an **aspiring Full-Stack Developer** who is always eager to
 
 ---
 
-### 📊 Development Activity
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=martdahao&layout=compact&theme=dark)
-
----
-
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/martdahao)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://martdahao.dev)  
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:mart.ervin@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:martdahao.com)
 
 ---
 
