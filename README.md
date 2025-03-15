@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Mart Ervin Dahao!
 
-I'm a **newbie** and an **aspiring Full-Stack Developer** with experience in building scalable and high-performance applications. I specialize in both **frontend and backend development**, focusing on creating efficient, maintainable, and user-friendly software solutions.
+I'm a **newbie** and an **aspiring Full-Stack Developer** who is always eager to learn and grow. I enjoy solving problems, building applications, and continuously improving my skills. Every day is an opportunity to explore new technologies, and I'm excited about the journey ahead in software development.
 
 ---
 
@@ -49,10 +49,4 @@ I'm a **newbie** and an **aspiring Full-Stack Developer** with experience in bui
 ---
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/martdahao)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://martdahao.dev)  
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:mart.ervin@example.com)
-
----
-
-⚡ *"Code is like humor. When you have to explain it, it's bad."* - Cory House 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor
