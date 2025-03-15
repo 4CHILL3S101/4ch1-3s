@@ -37,8 +37,15 @@ I'm a **newbie** and an **aspiring Full-Stack Developer** who is always eager to
 
 ---
 
+### 📊 Development Activity
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=martdahao&layout=compact&theme=dark)
+
+---
+
 ### 📫 Connect With Me
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:martdahao.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/martdahao)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://martdahao.dev)  
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:mart.ervin@example.com)
 
 ---
 
