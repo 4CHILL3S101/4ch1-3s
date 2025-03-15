@@ -20,15 +20,6 @@ I'm a **newbie** and an **aspiring Full-Stack Developer** who is always eager to
 
 ---
 
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martdahao&show_icons=true&theme=dark&count_private=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martdahao&layout=compact&theme=dark&count_private=true)
-
-
----
-
 ### 🚀 Projects & Contributions
 - **[WI-CONTROLLER](#)** - A remote control application for connected devices
 - **[Student Information System](#)** - A system to track student progress & grades
