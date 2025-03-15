@@ -6,20 +6,17 @@ I'm a **newbie** and an **aspiring Full-Stack Developer** who is always eager to
 
 ### 🔥 Tech Stack & Skills
 
-#### **Frontend Development**
-- 🚀 JavaScript (JS), React.js, React Native
-- 🎨 HTML, CSS
-- 📱 Mobile App Development with React Native
-
-#### **Backend Development**
-- ⚡ Node.js, FastAPI, Laravel
-- 🐍 Python, Java, C
-- 🗄️ Database Management (SQL & NoSQL)
-
-#### **Tools & DevOps**
-- 🛠️ Git & GitHub
-- ☁️ Firebase, REST APIs
-- 🔗 Authentication (OAuth, JWT, Firebase Auth)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -49,4 +46,8 @@ I'm a **newbie** and an **aspiring Full-Stack Developer** who is always eager to
 ---
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:martdahao.com)
+
+---
+
+⚡ *"Code is like humor. When you have to explain it, it's bad."* - Cory House 🚀
